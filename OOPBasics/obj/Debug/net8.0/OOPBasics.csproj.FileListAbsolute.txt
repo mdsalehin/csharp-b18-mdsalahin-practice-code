@@ -1,0 +1,15 @@
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\bin\Debug\net8.0\OOPBasics.exe
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\bin\Debug\net8.0\OOPBasics.deps.json
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\bin\Debug\net8.0\OOPBasics.runtimeconfig.json
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\bin\Debug\net8.0\OOPBasics.dll
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\bin\Debug\net8.0\OOPBasics.pdb
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\obj\Debug\net8.0\OOPBasics.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\obj\Debug\net8.0\OOPBasics.AssemblyInfoInputs.cache
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\obj\Debug\net8.0\OOPBasics.AssemblyInfo.cs
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\obj\Debug\net8.0\OOPBasics.csproj.CoreCompileInputs.cache
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\obj\Debug\net8.0\OOPBasics.sourcelink.json
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\obj\Debug\net8.0\OOPBasics.dll
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\obj\Debug\net8.0\refint\OOPBasics.dll
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\obj\Debug\net8.0\OOPBasics.pdb
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\obj\Debug\net8.0\OOPBasics.genruntimeconfig.cache
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OOPBasics\obj\Debug\net8.0\ref\OOPBasics.dll
