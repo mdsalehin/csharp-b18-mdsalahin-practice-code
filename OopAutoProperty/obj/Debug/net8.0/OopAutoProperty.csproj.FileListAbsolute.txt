@@ -1,0 +1,15 @@
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\bin\Debug\net8.0\OopAutoProperty.exe
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\bin\Debug\net8.0\OopAutoProperty.deps.json
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\bin\Debug\net8.0\OopAutoProperty.runtimeconfig.json
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\bin\Debug\net8.0\OopAutoProperty.dll
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\bin\Debug\net8.0\OopAutoProperty.pdb
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\obj\Debug\net8.0\OopAutoProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\obj\Debug\net8.0\OopAutoProperty.AssemblyInfoInputs.cache
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\obj\Debug\net8.0\OopAutoProperty.AssemblyInfo.cs
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\obj\Debug\net8.0\OopAutoProperty.csproj.CoreCompileInputs.cache
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\obj\Debug\net8.0\OopAutoProperty.sourcelink.json
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\obj\Debug\net8.0\OopAutoProperty.dll
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\obj\Debug\net8.0\refint\OopAutoProperty.dll
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\obj\Debug\net8.0\OopAutoProperty.pdb
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\obj\Debug\net8.0\OopAutoProperty.genruntimeconfig.cache
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopAutoProperty\obj\Debug\net8.0\ref\OopAutoProperty.dll
