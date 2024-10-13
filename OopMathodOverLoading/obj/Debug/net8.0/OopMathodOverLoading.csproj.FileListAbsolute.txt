@@ -1,0 +1,15 @@
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\obj\Debug\net8.0\OopMathodOverLoading.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\obj\Debug\net8.0\OopMathodOverLoading.AssemblyInfoInputs.cache
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\obj\Debug\net8.0\OopMathodOverLoading.AssemblyInfo.cs
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\obj\Debug\net8.0\OopMathodOverLoading.csproj.CoreCompileInputs.cache
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\obj\Debug\net8.0\OopMathodOverLoading.sourcelink.json
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\bin\Debug\net8.0\OopMathodOverLoading.exe
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\bin\Debug\net8.0\OopMathodOverLoading.deps.json
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\bin\Debug\net8.0\OopMathodOverLoading.runtimeconfig.json
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\bin\Debug\net8.0\OopMathodOverLoading.dll
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\bin\Debug\net8.0\OopMathodOverLoading.pdb
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\obj\Debug\net8.0\OopMathodOverLoading.dll
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\obj\Debug\net8.0\refint\OopMathodOverLoading.dll
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\obj\Debug\net8.0\OopMathodOverLoading.pdb
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\obj\Debug\net8.0\OopMathodOverLoading.genruntimeconfig.cache
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\OopMathodOverLoading\obj\Debug\net8.0\ref\OopMathodOverLoading.dll
