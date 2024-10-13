@@ -1,10 +1,8 @@
-﻿
-
-class WaterBottle1
+﻿class WaterBottle1
 {
     //variables
-    public double capacity;
-    public string color;
+    private double capacity;
+    private string color;
     private double waterAmount;
   
     /*  property means = mathod e mne korbo.property is one
@@ -20,7 +18,8 @@ class WaterBottle1
         {
             return waterAmount;
         }
-        set
+        //Adding Access Modifier private 
+        private set
         {
             if(value <= capacity )
             {
@@ -28,24 +27,51 @@ class WaterBottle1
             }            
         }
     }
-  
+
+    //To Knew the Color and Capacity How Much We Use Another Property
+    public string Propertycolor
+    {
+        get
+        {
+            return color;
+        }
+    }
+    public double Capacity
+    {
+        get
+        {
+            return capacity;
+        }
+    }
+
+    /*there is no return type in constructor.
+     constructor always class ar nam onojai e hoye thake*/
+
+    //Constructor
+    public WaterBottle1(string color, double ToAvoidThisWeUseDifferentNameOFContructorcapacity)
+    {
+        this.color = color;
+        capacity = ToAvoidThisWeUseDifferentNameOFContructorcapacity;
+    }
 
     public void AddWater(double amount)
     {
-        if (waterAmount + amount <= capacity)
+        //akn set class ar vitor diya acces krte parbo but bahire thake ar use krte parbo nah.acces modifier ar jno
+
+        if (Propertywateramount + amount <= capacity)
         {
-            waterAmount = waterAmount + amount;
+            Propertywateramount  = Propertywateramount + amount;
         }       
     }
     public void ReleaseWater(double amount)
     {
-        if(waterAmount < amount)
+        if(Propertywateramount  < amount)
         {
-            waterAmount = 0;
+            Propertywateramount  = 0;
         }
         else
         {
-            waterAmount = waterAmount - amount;
+            Propertywateramount  = Propertywateramount  - amount;
         }       
         
     }
