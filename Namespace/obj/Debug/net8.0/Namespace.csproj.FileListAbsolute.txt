@@ -1,0 +1,15 @@
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\bin\Debug\net8.0\Namespace.exe
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\bin\Debug\net8.0\Namespace.deps.json
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\bin\Debug\net8.0\Namespace.runtimeconfig.json
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\bin\Debug\net8.0\Namespace.dll
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\bin\Debug\net8.0\Namespace.pdb
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\obj\Debug\net8.0\Namespace.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\obj\Debug\net8.0\Namespace.AssemblyInfoInputs.cache
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\obj\Debug\net8.0\Namespace.AssemblyInfo.cs
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\obj\Debug\net8.0\Namespace.csproj.CoreCompileInputs.cache
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\obj\Debug\net8.0\Namespace.sourcelink.json
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\obj\Debug\net8.0\Namespace.dll
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\obj\Debug\net8.0\refint\Namespace.dll
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\obj\Debug\net8.0\Namespace.pdb
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\obj\Debug\net8.0\Namespace.genruntimeconfig.cache
+D:\CSharp\csharp-b18-mdsalahin-practice-code\src_withGit\CodeExamples\Namespace\obj\Debug\net8.0\ref\Namespace.dll
